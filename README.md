@@ -23,7 +23,9 @@ Para praticar os estudos de NodeJS com Express, que é um conjunto de métodos, 
 
 Além das tecnologias supracitadas, foi utilizado para a criação o Nodemon, que é uma ferramenta que auxilia que o servidor fique ative de um jeito mais fácil, recarregando o mesmo sempre que algum arquivo for alterado.
 
-Esse projeto é parte do curso ["Fullstack JavaScript", do Onebitcode](https://github.com/angelicaalbuquerque/fullstack-javascript).
+A ferramenta Insomnia também foi utilizada. Ela ajuda a fazer chamadas web, permitindo que as URL sejam chamadas e que vejamos o resultado (não só o body, mas também o status code, além de permitir o envio de POST e etc).
+
+_Esse projeto é parte do curso ["Fullstack JavaScript", do Onebitcode](https://github.com/angelicaalbuquerque/fullstack-javascript)._
 
 ```bash
 # Rodando na porta:
