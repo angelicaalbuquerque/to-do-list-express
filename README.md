@@ -4,6 +4,7 @@
 
 <p align="center">
 <img alt="badge node" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/badges/node.svg">
+<img alt="badge javascript" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/main/badges/javascript.svg">
 <img alt="badge vscode" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/f96545c39b9ff34534ee166d78e4bcef00de3928/badges/visual-studio-code.svg">
 </p>
 
